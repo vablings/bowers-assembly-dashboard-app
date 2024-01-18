@@ -60,7 +60,7 @@ fn fetch() -> String {
             return mat_list_json;
         }
         None => {
-            panic!("ah fuck");
+            panic!("uh oh");
         }
     }
 }
